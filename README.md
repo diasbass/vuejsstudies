@@ -1,4 +1,4 @@
-# 3_projeto_cli
+# Vue 3 - Concepts Studies
 
 ## Project setup
 ```
